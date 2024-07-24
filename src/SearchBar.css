@@ -1,0 +1,28 @@
+#SearchBar{
+    background-color: #8d674c;
+    color: rgb(255,255,255);
+    position: relative;
+    left:280px;
+    top:60px;
+    width:400px;
+    height:30px;
+    border-radius: 25px;
+    border:rgb(255,255,255) solid;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: medium;
+    font-weight: 400;
+}
+
+#SearchBar::placeholder{
+    color: rgb(255,255,255);
+    opacity: 0.7;
+}
+
+#SearchIcon{
+    color:rgb(255,255,255);
+    position: relative;
+    left:245px;
+    top:67px;
+    cursor: pointer;
+}

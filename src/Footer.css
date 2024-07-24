@@ -1,0 +1,74 @@
+.footer{
+    margin-top:100px;
+    height:max-content;
+    background-color: #6f4e37;
+    color:rgb(255,255,255);
+    padding-left: 100px;
+    padding-right:100px;
+    padding-top:30px;
+    font-size: large;
+}
+
+.footer-part{
+    display: flex;
+    flex:wrap;
+}
+
+#footer-image{
+    height:100px;
+    width:100px;
+    padding-right:200px;
+}
+
+.AboutUs{
+    padding-right:50px;
+}
+
+.Responsibility{
+    padding-right:50px;
+}
+
+#ig{
+    margin-left: 20px;
+    margin-right: 10px;
+    height:30px;
+    width:30px;
+    cursor: pointer;
+}
+
+#fb{
+    margin-right: 10px;
+    height:30px;
+    width:30px;
+    cursor: pointer;
+}
+
+#x{
+    height:30px;
+    width:30px;
+    cursor: pointer;
+}
+
+#apple{
+    height:110px;
+    width:200px;
+    position: relative;
+    top:80px;
+    left:200px;
+}
+
+#android{
+    height:95px;
+    width:195px;
+}
+
+#mini-footer{
+    font-size: 13px;
+}
+
+#copyright{
+    font-size: 13px;
+    position: relative;
+    left:1190px;
+    bottom:38px;
+}

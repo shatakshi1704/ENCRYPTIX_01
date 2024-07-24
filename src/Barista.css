@@ -1,0 +1,60 @@
+.Barista{
+    margin-top:90px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top:10px;
+    background-color: #6f4e3765;
+    height:330px;
+    color:#472c17;
+}
+
+.Items{
+    background-color: rgba(255, 255, 255, 0.814);
+    height:200px;
+    width:500px;
+    padding:10px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px 2px;
+    margin:10px;
+}
+
+#Items{
+    height:150px;
+    width:200px;
+    border-radius: 25px;
+}
+
+#veg{
+    height:20px;
+    width:20px;
+    position: relative;
+    margin-left:10px;
+    bottom:125px;
+}
+
+#Items-text{
+    position: relative;
+    left:209px;
+    bottom:189px;
+    font-size: 19px;
+    font-weight:600
+}
+
+#Items-info{
+    position: relative;
+    left:209px;
+    bottom:210px;
+    font-size:10px;
+}
+
+#Items-order{
+    position: relative;
+    left:355px;
+    bottom:130px;
+}
+
+.Barista-items{
+    display: flex;
+    flex:wrap;
+
+}

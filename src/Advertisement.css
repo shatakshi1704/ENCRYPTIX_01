@@ -1,0 +1,37 @@
+.ad-container{
+    background-color:#8d674c ;
+    color:rgb(255,255,255);
+    height:200px;
+    width:1500px;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right:100px;
+    display: flex;
+    flex:wrap;
+    padding:15px;
+    border-radius: 25px;
+}
+
+#ad-pic{
+    height:200px;
+    width:300px;
+    border-radius: 25px;
+}
+
+.words{
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#head{
+    font-size: large;
+}
+
+#check-menu{
+    position: relative;
+    left:1000px;
+    bottom:30px;
+    height:40px;
+    font-weight: bolder;
+}

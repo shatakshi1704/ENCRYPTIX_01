@@ -1,0 +1,13 @@
+#signin{
+    position: relative;
+    left:340px;
+    top:70px;
+    cursor: pointer;
+}
+
+#login{
+    position: relative;
+    left:360px;
+    top:70px;
+    cursor: pointer;
+}

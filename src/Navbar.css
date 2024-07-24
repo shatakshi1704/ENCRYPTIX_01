@@ -1,0 +1,108 @@
+.Navbar-container{
+    background-color: #6f4e37;
+    height:112px;
+    width:auto;
+    display: flex;
+    flex:wrap;
+}
+
+#mainicon{
+    height:6rem;
+    margin:0.5rem
+}
+
+#heading{
+    color:rgb(255, 255, 255);
+    font-weight: 500;
+}
+
+.icons{
+    color: rgb(255, 255, 255) ;
+
+}
+
+#home{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left:100px;
+    top:45px;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+#home:hover{
+    opacity: 1;
+}
+
+#menu{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left:200px;
+    top:45px;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+#menu:hover{
+    opacity: 1;
+}
+
+
+#order{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left:293px;
+    top:45px;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+#order:hover{
+    opacity: 1;
+}
+
+
+#gift{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left:380px;
+    top:45px;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+#gift:hover{
+    opacity: 1;
+}
+
+#homee{
+    position: relative;
+    top:62px;
+    right:25px;
+    opacity: 0.9;
+}
+
+#menuu{
+    position: relative;
+    top:62px;
+    left:48px;
+    opacity: 0.9;
+}
+
+#orderr{
+    position: relative;
+    top:62px;
+    left:115px;
+    opacity: 0.9;
+}
+
+#giftt{
+    position: relative;
+    top:62px;
+    left:197px;
+    opacity: 0.9; 
+}

@@ -1,0 +1,92 @@
+.Curations{
+    margin-left: 100px;
+    margin-right:100px;
+    margin-top:50px;
+    color:#472c17
+}
+
+.Curations-images{
+    display: flex;
+    flex-direction:row;
+}
+
+#bestseller-image{
+    border-radius: 50%;
+    height:200px;
+    width:250px;
+    border: black solid;
+    margin-right: 50px;
+    position: absolute;
+    left:200px;
+    cursor: pointer;
+}
+
+#drinks-image{
+    border-radius: 50%;
+    height:200px;
+    width:250px;
+    border: black solid;
+    margin-right: 50px;
+    position: absolute;
+    right:850px;
+    cursor: pointer;
+}
+
+#food-image{
+    border-radius: 50%;
+    height:200px;
+    width:250px;
+    border: black solid;
+    margin-right: 50px;
+    position: absolute;
+    right:500px;
+    cursor: pointer;
+
+}
+
+#merchandise-image{
+    border-radius: 50%;
+    height:200px;
+    width:250px;
+    border: black solid;
+    position: absolute;
+    right:200px;
+    cursor: pointer;
+
+}
+
+#bestseller-text{
+    position: relative;
+    left:170px;
+    top:200px;
+    font-weight:700;
+    font-size: 20px;
+
+}
+
+#Drinks-text{
+    position: relative;
+    left:547px;
+    top:155px;
+    font-weight:700;
+    font-size: 20px;
+
+}
+
+#Food-text{
+    position: relative;
+    left:907px;
+    top:102px;
+    font-weight:700;
+    font-size: 20px;
+
+}
+
+#Merchandise-text{
+    position: relative;
+    left:1220px;
+    top:50px;
+    font-weight:700;
+    font-size: 20px;
+
+}
